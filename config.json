@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/vik thunder",
+    "prod_uri":"mysql://root:@localhost/vik thunder",
+    "fb_url":"https://facebook.com/vik thunder",
+    "tw_url":"https://twitter.com/vik thunder",
+    "gh_url": "https://github.com/vik thunder",
+    "blog_name": "Adventure Diaries",
+    "tag_line": " Adventure is Heaven ",
+    "gmail-user":"vikramjha719@gmail.com",
+    "gmail-password": "vikram419@#",
+    "about_text" : "hi am vik , welcome you all this a comman page where u can read the adventure post , so enjoy it.",
+    "no_of_posts" : 3,
+    "login_image" : "login.svg",
+    "admin_user": "vik@ram",
+    "admin_password": "1234",
+    "upload_location" : "C:\\Users\\hp\\PycharmProjects\\flask tutorial\\static"
+
+
+  }
+}
+
